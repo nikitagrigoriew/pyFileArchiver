@@ -12,7 +12,7 @@ setuptools.setup(
     description='Python archiver',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='',
+    url='https://github.com/nikitagrigoriew/pyFileArchiver',
     packages=setuptools.find_packages(),
     install_requires=[],
     test_suite='tests',
