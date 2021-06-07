@@ -3,7 +3,7 @@
 <h2>Install</h2>
 
 <p>1.Open your project in terminal</p>
-<p>2.Input "pip install pyFileArchiver"</p>
+<p>2.Input "pip install pyFileArchiverGrigoriew"</p>
 
 <h2>Example</h2>
 
